@@ -1,0 +1,13 @@
+{
+  "name": "audit-demo-client-skin",
+  "private": true,
+  "version": "0.0.0-audit",
+  "description": "Иллюстративный фрагмент; не используется как зависимость продукта",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}

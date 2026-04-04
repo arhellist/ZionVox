@@ -1,0 +1,14 @@
+{
+  "name": "audit-demo-relay-skin",
+  "private": true,
+  "version": "0.0.0-audit",
+  "description": "Иллюстративный скелет; не является боевым сервером",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}
